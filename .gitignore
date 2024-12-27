@@ -1,0 +1,18 @@
+# Ignore Java class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore Eclipse or IntelliJ project files
+.project
+.classpath
+.idea/
+*.iml
+
+# Ignore build output
+/target/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
