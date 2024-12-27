@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PlacementMS
+comment1.params=controller
+comment1.target=StudentManagementPanel(PlacementController)
+comment2.params=
+comment2.target=void\ addStudent()
+comment3.params=
+comment3.target=void\ updateStudent()
+comment4.params=
+comment4.target=void\ deleteStudent()
+comment5.params=
+comment5.target=void\ viewStudent()
+comment6.params=
+comment6.target=void\ refreshTable()
+comment7.params=
+comment7.target=void\ clearFields()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
